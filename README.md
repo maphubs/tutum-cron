@@ -1,4 +1,6 @@
-# A Cron Scheduler for Tutum
+# A Cron Scheduler for Docker Cloud
+
+[![Docker Repository on Quay](https://quay.io/repository/maphubs/dockercloud-cron/status "Docker Repository on Quay")](https://quay.io/repository/maphubs/dockercloud-cron)
 
 ## Intro
 
